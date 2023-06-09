@@ -1,0 +1,7 @@
+WSTI --GRUPA-- 2DZI Damian Potoczny
+Modul 4 Operacje na plikach Zadanie 1
+Języki programowania
+1. Liczb parzystych: 497
+2. Najwieksza Liczba: BIN:1111101111110110 DEC:64502
+3. Liczb 9 cyfrowych: 101
+	Suma 9 cyfrowych: 39415 1001100111110111
